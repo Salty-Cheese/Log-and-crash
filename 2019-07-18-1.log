@@ -1,0 +1,515 @@
+[00:00:27] [pool-3-thread-36/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *MOLE_1 is no longer AFK.
+[00:00:30] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Sableye in world "world", at X:656 Y:87 Z:-599
+[00:00:46] [Server thread/INFO] [nucleus]: Biscadii ran the command: /home greg
+[00:00:50] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Sableye in world "world", at X:655 Y:89 Z:-599
+[00:01:02] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Chandelure in world "world", at X:656 Y:90 Z:-603
+[00:01:08] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A legendary Manaphy has spawned in world "world", at X:-51775 Y:61 Z:-58184
+[00:01:09] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Chandelure in world "world", at X:661 Y:90 Z:-601
+[00:01:39] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Biscadii started fighting a legendary Manaphy in world "world", at X:-51791 Y:50 Z:-58166
+[00:01:50] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /deltree 
+[00:02:09] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Sableye in world "world", at X:648 Y:90 Z:-594
+[00:02:20] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Sableye in world "world", at X:655 Y:90 Z:-598
+[00:02:31] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /brush none
+[00:02:38] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /brush 
+[00:02:44] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /brush set
+[00:02:52] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Gengar in world "world", at X:650 Y:90 Z:-597
+[00:02:53] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /brush none
+[00:02:54] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Gengar in world "world", at X:658 Y:90 Z:-600
+[00:03:18] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //undo 
+[00:03:28] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //undo 
+[00:03:32] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Gengar in world "world", at X:654 Y:90 Z:-602
+[00:03:34] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Gengar in world "world", at X:658 Y:90 Z:-602
+[00:04:19] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Biscadii caught a legendary Manaphy in world "world", at X:-51785 Y:50 Z:-58162
+[00:04:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Biscadii has made the advancement [Into the Deep]
+[00:04:25] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Mismagius in world "world", at X:656 Y:90 Z:-608
+[00:04:32] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Mismagius in world "world", at X:661 Y:90 Z:-603
+[00:04:34] [Server thread/INFO] [nucleus]: Biscadii ran the command: /home elite
+[00:06:03] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Mismagius in world "world", at X:653 Y:90 Z:-600
+[00:06:08] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Mismagius in world "world", at X:657 Y:90 Z:-600
+[00:06:57] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Sableye in world "world", at X:658 Y:90 Z:-599
+[00:07:08] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Sableye in world "world", at X:661 Y:90 Z:-598
+[00:07:20] [pool-3-thread-37/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[00:07:45] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Chandelure in world "world", at X:658 Y:90 Z:-602
+[00:07:50] [pool-3-thread-40/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[00:07:52] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Chandelure in world "world", at X:662 Y:90 Z:-602
+[00:08:20] [pool-3-thread-35/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 37 items have been cleared.
+[00:08:49] [Timer-2/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This server is running Wondertrade by GhostWolf!
+[00:08:49] [Timer-2/INFO] [net.minecraft.server.dedicated.DedicatedServer]: For a tutorial see: https://www.youtube.com/ghostwolfgames
+[00:08:49] [Timer-2/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Current Wondertrade pool contains: 100 Pixelmon
+[00:08:49] [Timer-2/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Try your luck at getting it with /wondertrade
+[00:08:53] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Sableye in world "world", at X:652 Y:90 Z:-609
+[00:09:13] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Sableye in world "world", at X:658 Y:90 Z:-605
+[00:09:26] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Gengar in world "world", at X:658 Y:90 Z:-599
+[00:09:27] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Gengar in world "world", at X:661 Y:90 Z:-601
+[00:09:46] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //sel 
+[00:11:04] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Sableye in world "world", at X:654 Y:90 Z:-597
+[00:11:20] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Sableye in world "world", at X:659 Y:90 Z:-599
+[00:11:39] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /brush sphere air
+[00:11:44] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /brush sphere air 1
+[00:11:54] [Server thread/INFO] [nucleus]: Biscadii ran the command: /gs 5
+[00:12:13] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Heracross has spawned in world "world", at X:-1711 Y:68 Z:-1697
+[00:13:04] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Mismagius in world "world", at X:649 Y:90 Z:-598
+[00:13:11] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Mismagius in world "world", at X:655 Y:90 Z:-598
+[00:13:16] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /back 
+[00:13:36] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /NONE 
+[00:13:42] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //sel 
+[00:14:34] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //replace 251:7 stonebrick
+[00:14:54] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //pos2 
+[00:14:55] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //replace 251:7 stonebrick
+[00:15:01] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //undo 
+[00:15:03] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //expand 7
+[00:15:05] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //replace 251:7 stonebrick
+[00:15:30] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /back 
+[00:15:33] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //pos2 
+[00:15:35] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //replace 251:7 stonebrick
+[00:15:38] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Biscadii hatched a Wimpod egg in world "world", at X:-1784 Y:83 Z:-1627
+[00:15:39] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Mismagius in world "world", at X:654 Y:90 Z:-607
+[00:15:41] [Server thread/INFO] [nucleus]: Biscadii ran the command: /gs 4
+[00:15:41] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Mismagius in world "world", at X:659 Y:90 Z:-603
+[00:15:59] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //replace 251:7 stonebrick
+[00:16:27] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Mismagius in world "world", at X:650 Y:90 Z:-595
+[00:16:32] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Mismagius in world "world", at X:657 Y:90 Z:-597
+[00:16:47] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Chandelure in world "world", at X:655 Y:90 Z:-605
+[00:16:49] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thor 
+[00:16:50] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thor 
+[00:16:50] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thor 
+[00:16:50] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thor 
+[00:16:51] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thor 
+[00:16:51] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thor 
+[00:16:52] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thor 
+[00:16:52] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thor 
+[00:16:52] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thor 
+[00:16:53] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thort 
+[00:16:53] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thort 
+[00:16:53] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thort 
+[00:16:53] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thort 
+[00:16:54] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thortt 
+[00:16:55] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thor 
+[00:16:56] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Chandelure in world "world", at X:661 Y:90 Z:-602
+[00:16:56] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thortt 
+[00:16:56] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thortt 
+[00:16:56] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thortt 
+[00:16:57] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thortt 
+[00:16:57] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thortt 
+[00:16:57] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thortt 
+[00:16:57] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thortt3 
+[00:17:04] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thor 
+[00:17:09] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thor 
+[00:17:13] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /kittycannon 
+[00:17:15] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /kittycannon 
+[00:17:20] [pool-3-thread-37/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[00:17:50] [pool-3-thread-22/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[00:17:53] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Gengar in world "world", at X:648 Y:90 Z:-609
+[00:17:56] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Gengar in world "world", at X:657 Y:90 Z:-605
+[00:18:20] [pool-3-thread-38/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 5 items have been cleared.
+[00:18:28] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Chandelure in world "world", at X:658 Y:90 Z:-598
+[00:18:36] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Chandelure in world "world", at X:658 Y:90 Z:-603
+[00:19:40] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Chandelure in world "world", at X:652 Y:90 Z:-605
+[00:19:41] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Chandelure in world "world", at X:660 Y:90 Z:-602
+[00:21:37] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //sel 
+[00:21:38] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /save-all 
+[00:21:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salty_Cheese: Saved the world]
+[00:21:43] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Sableye in world "world", at X:650 Y:90 Z:-609
+[00:21:53] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Sableye in world "world", at X:655 Y:90 Z:-605
+[00:22:29] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /save-all 
+[00:22:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salty_Cheese: Saved the world]
+[00:23:43] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Chandelure in world "world", at X:653 Y:90 Z:-595
+[00:23:51] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Chandelure in world "world", at X:659 Y:90 Z:-599
+[00:25:42] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Mismagius in world "world", at X:658 Y:90 Z:-600
+[00:25:44] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Mismagius in world "world", at X:663 Y:90 Z:-601
+[00:26:16] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Gengar in world "world", at X:654 Y:90 Z:-600
+[00:26:19] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Gengar in world "world", at X:661 Y:90 Z:-599
+[00:27:06] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Chandelure in world "world", at X:657 Y:90 Z:-602
+[00:27:20] [pool-3-thread-36/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[00:27:50] [pool-3-thread-42/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[00:28:01] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Chandelure in world "world", at X:661 Y:90 Z:-602
+[00:28:20] [pool-3-thread-41/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 0 items have been cleared.
+[00:28:47] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Gengar in world "world", at X:655 Y:90 Z:-593
+[00:28:54] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Gengar in world "world", at X:659 Y:90 Z:-596
+[00:30:27] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Gengar in world "world", at X:658 Y:90 Z:-597
+[00:30:29] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Gengar in world "world", at X:662 Y:90 Z:-600
+[00:30:31] [Server thread/INFO] [nucleus]: MetYourDestiny ran the command: /gamemode 0
+[00:30:35] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /back 
+[00:30:49] [Server thread/INFO] [nucleus]: MetYourDestiny ran the command: /spawn 
+[00:30:54] [Server thread/INFO] [nucleus]: MetYourDestiny ran the command: /gamemode 1
+[00:31:35] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /bal 
+[00:32:13] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /bal 
+[00:32:36] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /back 
+[00:32:45] [Server thread/INFO] [nucleus]: MetYourDestiny ran the command: /gamemode 0
+[00:33:00] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Chandelure in world "world", at X:659 Y:90 Z:-601
+[00:33:03] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Chandelure in world "world", at X:662 Y:90 Z:-601
+[00:33:48] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Mismagius in world "world", at X:655 Y:90 Z:-602
+[00:33:54] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Mismagius in world "world", at X:660 Y:90 Z:-602
+[00:34:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Moderator] ~Destiny: ShittyScienceTM
+[00:34:42] [Server thread/INFO] [nucleus]: MetYourDestiny ran the command: /gamemode 1
+[00:34:48] [Server thread/INFO] [nucleus]: MetYourDestiny ran the command: /back 
+[00:34:52] [Server thread/INFO] [nucleus]: MetYourDestiny ran the command: /back 
+[00:34:57] [Server thread/INFO] [nucleus]: MetYourDestiny ran the command: /gamemode 0
+[00:35:22] [Server thread/INFO] [nucleus]: MetYourDestiny ran the command: /back 
+[00:35:28] [Server thread/INFO] [nucleus]: MetYourDestiny ran the command: /gamemode 1
+[00:35:40] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /pay MOLE_1 1000
+[00:37:20] [pool-3-thread-48/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[00:37:50] [pool-3-thread-43/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[00:38:20] [pool-3-thread-43/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 7 items have been cleared.
+[00:38:37] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Heracross has spawned in world "world", at X:-1940 Y:65 Z:-1716
+[00:39:01] [pool-3-thread-48/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *MOLE_1 has gone AFK.
+[00:47:20] [pool-3-thread-49/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[00:47:50] [pool-3-thread-50/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[00:48:20] [pool-3-thread-47/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 5 items have been cleared.
+[00:49:06] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Beedrill has spawned in world "world", at X:-1664 Y:71 Z:-1710
+[00:49:35] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /kick MetYourDestiny go eat already jesus
+[00:49:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MetYourDestiny was kicked by Salty_Cheese.
+[00:49:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Reason: go eat already jesus
+[00:49:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MetYourDestiny lost connection: go eat already jesus
+[00:49:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MetYourDestiny left the game
+[00:49:41] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /kick biscadii go eat already ffs
+[00:49:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Biscadii was kicked by Salty_Cheese.
+[00:49:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Reason: go eat already ffs
+[00:49:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Biscadii lost connection: go eat already ffs
+[00:49:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Biscadii left the game
+[00:49:42] [User Authenticator #8/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player MetYourDestiny is 194a5dc7-0870-43a1-aedd-d15eb1426f83
+[00:49:42] [Netty Server IO #16/INFO] [FML]: Client protocol version 2
+[00:49:42] [Netty Server IO #16/INFO] [FML]: Client attempting to join with 8 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2768,biomesoplenty@7.0.1.2425,mcp@9.42,journeymap@1.12.2-5.5.5b7,pixelextras@2.4.6,pixelmon@7.0.6
+[00:49:42] [Netty Server IO #16/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, aurionsvotelistener, carrotshop, catclearlag, clolorhelper, pixelmoneconomybridge, evenmorepixelmoncommands, holograms, luckperms, meltanfixer, nucleus, nuvotifier, pixelhunt, pixelmonbroadcasts, redprotect, simpledexrewards, totaleconomy, trainercommands, wondertrade, worldedit] at CLIENT
+[00:49:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:49:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MetYourDestiny[/24.253.241.197:61605] logged in with entity id 28142 in world(0) at (-1790.201121116929, 71.31207629621343, -1641.110144671468)
+[00:49:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MetYourDestiny joined the game
+[00:49:59] [User Authenticator #9/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Biscadii is 4dcee4ac-9148-4993-9252-f1d766ef82af
+[00:49:59] [Netty Server IO #18/INFO] [FML]: Client protocol version 2
+[00:49:59] [Netty Server IO #18/INFO] [FML]: Client attempting to join with 8 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2768,biomesoplenty@7.0.1.2425,mcp@9.42,journeymap@1.12.2-5.5.5b7,pixelextras@2.4.6,pixelmon@7.0.6
+[00:49:59] [Netty Server IO #18/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, aurionsvotelistener, carrotshop, catclearlag, clolorhelper, pixelmoneconomybridge, evenmorepixelmoncommands, holograms, luckperms, meltanfixer, nucleus, nuvotifier, pixelhunt, pixelmonbroadcasts, redprotect, simpledexrewards, totaleconomy, trainercommands, wondertrade, worldedit] at CLIENT
+[00:50:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:50:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Biscadii[/99.35.193.248:62355] logged in with entity id 28178 in world(0) at (-1738.7755806159946, 92.86813611450813, -1645.7107238280698)
+[00:50:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Biscadii joined the game
+[00:55:26] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /nick MetYourDestiny pizzabagboi
+[00:55:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Moderator] ~pizzabagboi: F U CC
+[00:57:20] [pool-3-thread-53/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[00:57:50] [pool-3-thread-48/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[00:58:20] [pool-3-thread-50/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 13 items have been cleared.
+[00:59:51] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //pos1 
+[01:00:03] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //pos2 
+[01:00:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Gym-Leader] Biscadii: 6 8
+[01:00:20] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //expand 10
+[01:01:02] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //replace biomesoplenty:log_0:6,biomesoplenty:leave_1:8 air
+[01:01:08] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //replace biomesoplenty:log_0:6,biomesoplenty:leaves_1:8 air
+[01:01:11] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //undo 
+[01:01:32] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //expand 3
+[01:01:49] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //replace biomesoplenty:leaves_1:8 air
+[01:01:51] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //undo 
+[01:02:12] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //replace biomesoplenty:leaves_1:8 air
+[01:02:16] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //undo 
+[01:07:04] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: //sel 
+[01:07:20] [pool-3-thread-47/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[01:07:50] [pool-3-thread-51/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[01:08:20] [pool-3-thread-47/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 9 items have been cleared.
+[01:08:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hunt The hunt for Slowpoke has ended!
+[01:08:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hunt New Pokémon to hunt is Lampent!
+[01:08:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hunt The hunt for Flygon has ended!
+[01:08:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hunt New Pokémon to hunt is Sewaddle!
+[01:08:49] [Timer-2/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This server is running Wondertrade by GhostWolf!
+[01:08:49] [Timer-2/INFO] [net.minecraft.server.dedicated.DedicatedServer]: For a tutorial see: https://www.youtube.com/ghostwolfgames
+[01:08:49] [Timer-2/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Current Wondertrade pool contains: 100 Pixelmon
+[01:08:49] [Timer-2/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Try your luck at getting it with /wondertrade
+[01:11:32] [Server thread/INFO] [nucleus]: Biscadii ran the command: /warp elite4
+[01:11:54] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /warp elite4
+[01:12:00] [Server thread/INFO] [nucleus]: Biscadii ran the command: /warp elite3
+[01:12:05] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /save-all 
+[01:12:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salty_Cheese: Saved the world]
+[01:12:06] [Server thread/INFO] [nucleus]: Biscadii ran the command: /warp elite4
+[01:12:44] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /save-all 
+[01:12:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salty_Cheese: Saved the world]
+[01:13:00] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /warp elite4
+[01:13:18] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /warp elite4
+[01:13:20] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /top 
+[01:14:47] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /save-all 
+[01:14:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salty_Cheese: Saved the world]
+[01:15:48] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Gengar in world "world", at X:659 Y:90 Z:-603
+[01:15:48] [pool-3-thread-56/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *MOLE_1 is no longer AFK.
+[01:15:52] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Gengar in world "world", at X:663 Y:90 Z:-601
+[01:16:34] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Mismagius in world "world", at X:653 Y:90 Z:-609
+[01:16:39] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /save-all 
+[01:16:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salty_Cheese: Saved the world]
+[01:16:42] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Mismagius in world "world", at X:659 Y:90 Z:-605
+[01:17:20] [pool-3-thread-47/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[01:17:38] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /holograme cml 0.3 Wait!%Here is info and requirements!%|%|V
+[01:17:43] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /holograms cml 0.3 Wait!%Here is info and requirements!%|%|V
+[01:17:50] [pool-3-thread-57/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[01:17:51] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /holograms 
+[01:17:53] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /sponge:callback 431d6b3c-e59f-4d55-8311-91854a152a20
+[01:17:54] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /sponge:callback eb694e6e-a980-4f1b-bb9f-1023ee9fa9b4
+[01:17:54] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /sponge:callback c81fd62a-08c9-4f0a-b429-f2f520b7eece
+[01:17:55] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /sponge:callback 1bea8a1a-b06c-4278-aadf-85b550ac6c7f
+[01:18:05] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /holograms cml 0.3 Wait!%Here is info and requirements!%|%|%V
+[01:18:17] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /holograms 
+[01:18:18] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /sponge:callback 7d04ed09-9c41-4ab3-a447-6f555a0af525
+[01:18:18] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /sponge:callback 46e9da55-6800-47a3-bd69-a8dcd4a2ac76
+[01:18:19] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /sponge:callback 84ddea83-a625-4898-9fca-9f942d0f7745
+[01:18:19] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /sponge:callback 93504c78-c204-4be3-a94b-eb33bc14a022
+[01:18:19] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /sponge:callback 3b4bd25c-ffeb-47e8-8bd5-90c6fda149fd
+[01:18:20] [pool-3-thread-47/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 4 items have been cleared.
+[01:18:36] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /holograms cml 0.3 Wait!%Here is info and requirements!%|%|%V
+[01:19:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sign Spy - Location: x: -1801.0, y: 66.0, z: -1602.0, world: world
+[01:19:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Player: Salty_Cheese
+[01:19:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lines - 1: [Cmd] - 2: Elite Four
+[01:19:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lines - 3: Information - 4: 
+[01:19:32] [Server thread/INFO] [carrotshop]: Cmd file can be found in C:\minecraft server\Pixelmon Server\.\config\carrotshop\cmds\world_-1801_66_66.txt
+[01:21:48] [pool-3-thread-53/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *MOLE_1 has gone AFK.
+[01:24:23] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Beedrill has spawned in world "world", at X:-1762 Y:70 Z:-1560
+[01:26:22] [pool-3-thread-65/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *MOLE_1 is no longer AFK.
+[01:26:24] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Mismagius in world "world", at X:648 Y:90 Z:-594
+[01:26:35] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Mismagius in world "world", at X:654 Y:90 Z:-597
+[01:26:58] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Gengar in world "world", at X:654 Y:90 Z:-602
+[01:27:01] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Gengar in world "world", at X:653 Y:90 Z:-600
+[01:27:20] [pool-3-thread-67/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[01:27:50] [pool-3-thread-67/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[01:28:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sign Spy - Location: x: -1780.0, y: 66.0, z: -1606.0, world: world
+[01:28:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Player: MetYourDestiny
+[01:28:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lines - 1:  - 2: biscadi
+[01:28:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lines - 3:  - 4: 
+[01:28:20] [pool-3-thread-53/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 0 items have been cleared.
+[01:28:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hunt Use /hunt to view the current Pokémon hunt.
+[01:31:12] [Server thread/INFO] [nucleus]: MetYourDestiny ran the command: /rp flag
+[01:31:14] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag
+[01:31:27] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag
+[01:31:29] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag
+[01:31:31] [Server thread/INFO] [nucleus]: MetYourDestiny ran the command: /rp flag
+[01:31:42] [Server thread/INFO] [nucleus]: MetYourDestiny ran the command: /warp pokemart
+[01:31:44] [Server thread/INFO] [nucleus]: MetYourDestiny ran the command: /back 
+[01:32:01] [Server thread/INFO] [nucleus]: Server ran the command: /sudo biscadii warp pokecenter
+[01:32:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Forcing Biscadii to run the command "/warp pokecenter".
+[01:32:01] [Server thread/INFO] [nucleus]: Biscadii ran the command: /warp pokecenter
+[01:32:07] [Server thread/INFO] [nucleus]: Biscadii ran the command: /back 
+[01:32:10] [pool-3-thread-66/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *MOLE_1 has gone AFK.
+[01:32:10] [Server thread/INFO] [nucleus]: Biscadii ran the command: /home mount
+[01:32:14] [Server thread/INFO] [nucleus]: Biscadii ran the command: /back 
+[01:32:16] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp list
+[01:32:21] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp info
+[01:32:26] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp removemember biscadii
+[01:32:32] [Server thread/INFO] [nucleus]: Biscadii ran the command: /warp pokecenter
+[01:32:36] [Server thread/INFO] [nucleus]: Biscadii ran the command: /back 
+[01:32:41] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /lp 
+[01:32:44] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp 
+[01:32:44] [Server thread/INFO] [nucleus]: Biscadii ran the command: /tpa met
+[01:32:47] [Server thread/INFO] [nucleus]: MetYourDestiny ran the command: /sponge:callback 479b73c0-f5ed-4fbf-a147-0fff99cb0fbc
+[01:32:47] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag
+[01:33:14] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds warp false
+[01:33:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:33:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: warp false
+[01:33:19] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds cmd:warp false
+[01:33:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:33:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: cmd:warp false
+[01:33:50] [Server thread/INFO] [nucleus]: Server ran the command: /save-all 
+[01:33:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Saving...
+[01:33:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Saved the world
+[01:34:11] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds cmd:warp true
+[01:34:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:34:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: cmd:warp true
+[01:35:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Gym-Leader] Biscadii: N U T
+[01:35:29] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flags
+[01:35:35] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds
+[01:35:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:35:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: 
+[01:35:44] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds cmd:warp true
+[01:35:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:35:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: cmd:warp true
+[01:36:00] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds cmd:warp.* true
+[01:36:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:36:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: cmd:warp.* true
+[01:36:14] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds cmd:warp. false
+[01:36:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:36:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: cmd:warp. false
+[01:36:20] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds cmd:warp.* false
+[01:36:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:36:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: cmd:warp.* false
+[01:36:24] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag list
+[01:36:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: list
+[01:36:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: 
+[01:36:26] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag
+[01:36:29] [pool-3-thread-73/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *MOLE_1 is no longer AFK.
+[01:36:30] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 started fighting a boss Mismagius in world "world", at X:648 Y:90 Z:-599
+[01:36:32] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player MOLE_1 defeated a boss Mismagius in world "world", at X:656 Y:90 Z:-599
+[01:36:44] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag cmds
+[01:36:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: cmds
+[01:36:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: 
+[01:36:49] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds
+[01:36:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:36:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: 
+[01:36:51] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds true
+[01:36:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:36:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: true
+[01:36:55] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp info
+[01:37:09] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp 
+[01:37:18] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp ? 2
+[01:37:20] [pool-3-thread-73/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[01:37:50] [pool-3-thread-65/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[01:38:20] [pool-3-thread-60/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 0 items have been cleared.
+[01:39:14] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds cmd:warp arg:true
+[01:39:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:39:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: cmd:warp arg:true
+[01:39:19] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds cmd:warp true
+[01:39:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:39:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: cmd:warp true
+[01:39:26] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds warp true
+[01:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: warp true
+[01:39:27] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds warp
+[01:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: warp
+[01:39:32] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds cmd: true
+[01:39:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:39:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: cmd: true
+[01:39:56] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds cmd:warp true
+[01:39:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:39:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: cmd:warp true
+[01:40:16] [pool-3-thread-66/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Biscadii has gone AFK.
+[01:40:33] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds cmd:warp
+[01:40:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:40:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: cmd:warp
+[01:40:45] [pool-3-thread-72/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *~pizzabagboi has gone AFK.
+[01:41:17] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds cmd:warp
+[01:41:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:41:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: cmd:warp
+[01:41:29] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /warp 
+[01:41:33] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /warp spawn
+[01:41:37] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /warp pokecenter
+[01:41:39] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /back 
+[01:42:00] [Server thread/INFO] [nucleus]: Biscadii ran the command: /warp pokecenter
+[01:42:00] [pool-3-thread-73/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Biscadii is no longer AFK.
+[01:42:02] [Server thread/INFO] [nucleus]: Biscadii ran the command: /back 
+[01:42:07] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag
+[01:43:17] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /home mountain
+[01:45:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Owner] Salty_Cheese: [name:"Old Spawn", x:276, y:73, z:338]
+[01:45:12] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /back 
+[01:45:25] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp 
+[01:45:30] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds false
+[01:45:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:45:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: false
+[01:45:35] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds
+[01:45:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:45:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: 
+[01:45:54] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /back 
+[01:46:25] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-fly
+[01:46:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-fly
+[01:46:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: 
+[01:46:26] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-fly
+[01:46:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-fly
+[01:46:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: 
+[01:46:28] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds
+[01:46:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:46:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: 
+[01:46:31] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds false
+[01:46:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:46:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: false
+[01:47:04] [pool-3-thread-73/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Biscadii has gone AFK.
+[01:47:20] [pool-3-thread-73/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[01:47:47] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /back 
+[01:47:50] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /home m
+[01:47:50] [pool-3-thread-71/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[01:47:54] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /home mountain
+[01:48:03] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-cmds remove
+[01:48:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-cmds
+[01:48:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: remove
+[01:48:14] [Server thread/INFO] [nucleus]: Biscadii ran the command: /spawn 
+[01:48:15] [pool-3-thread-79/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Biscadii is no longer AFK.
+[01:48:19] [Server thread/INFO] [nucleus]: Server ran the command: /save-all 
+[01:48:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Saving...
+[01:48:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Saved the world
+[01:48:20] [Server thread/INFO] [nucleus]: Biscadii ran the command: /back 
+[01:48:20] [pool-3-thread-75/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 2 items have been cleared.
+[01:48:32] [Server thread/INFO] [nucleus]: Biscadii ran the command: /warp pokecenter
+[01:48:36] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /home 
+[01:48:43] [Server thread/INFO] [nucleus]: Biscadii ran the command: /back 
+[01:48:56] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /back 
+[01:49:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Trainer] MOLE_1: Chris hackerman
+[01:50:13] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A wormhole has spawned in world "world", at X:261 Y:97 Z:285
+[01:50:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MOLE_1 has made the advancement [Enchanter]
+[01:52:20] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /back 
+[01:52:27] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /home mountain
+[01:53:43] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thru 
+[01:53:45] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thru 
+[01:53:50] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thru 
+[01:53:59] [Server thread/INFO] [nucleus]: Biscadii ran the command: /tpa salty
+[01:54:02] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /sponge:callback ceed5e67-196d-4e26-8690-4be70eda69e1
+[01:54:34] [pool-3-thread-83/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *~pizzabagboi is no longer AFK.
+[01:54:41] [Server thread/INFO] [nucleus]: MetYourDestiny ran the command: /nick 
+[01:54:44] [Server thread/INFO] [nucleus]: MetYourDestiny ran the command: /nickname 
+[01:54:53] [Server thread/INFO] [nucleus]: Biscadii ran the command: /back 
+[01:54:54] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /nick MetYourDestiny Destiny
+[01:55:13] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /back 
+[01:55:22] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /back 
+[01:55:23] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /top 
+[01:55:33] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /back 
+[01:55:39] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Diglett has spawned in world "world", at X:582 Y:21 Z:-557
+[01:57:18] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Sableye has spawned in world "world", at X:600 Y:25 Z:-633
+[01:57:20] [pool-3-thread-75/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[01:57:50] [pool-3-thread-86/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[01:58:20] [pool-3-thread-75/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 0 items have been cleared.
+[01:58:26] [Server thread/INFO] [nucleus]: MetYourDestiny ran the command: /gs 6
+[02:00:00] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /save-all 
+[02:00:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salty_Cheese: Saved the world]
+[02:01:19] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /home ultraball
+[02:02:12] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /thor 
+[02:02:23] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /tpa Salty_Cheese
+[02:02:34] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /warp elite4
+[02:02:44] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /spawn 
+[02:02:47] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /warp 
+[02:02:55] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag
+[02:03:03] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /warp elite4
+[02:03:06] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /save-all 
+[02:03:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salty_Cheese: Saved the world]
+[02:03:09] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Roggenrola has spawned in world "world", at X:-1755 Y:53 Z:-1549
+[02:03:21] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Fletchling has spawned in world "world", at X:-1758 Y:92 Z:-1542
+[02:05:48] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-signs true
+[02:05:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-signs
+[02:05:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: true
+[02:05:51] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag allow-sign true
+[02:05:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: allow-sign
+[02:05:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: true
+[02:05:57] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag signs true
+[02:05:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: signs
+[02:05:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: true
+[02:06:25] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp flag sign true
+[02:06:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Flag: sign
+[02:06:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [RedProtect] Value: true
+[02:07:20] [pool-3-thread-82/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[02:07:41] [Server thread/INFO] [nucleus]: MetYourDestiny ran the command: /warp elite4
+[02:07:50] [pool-3-thread-89/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[02:08:19] [Server thread/INFO] [nucleus]: Biscadii ran the command: /tpa salty
+[02:08:20] [pool-3-thread-89/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 0 items have been cleared.
+[02:08:21] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /sponge:callback 691cb32f-d5b6-411d-9953-4c51833bf53f
+[02:08:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hunt The hunt for Lampent has ended!
+[02:08:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Hunt New Pokémon to hunt is Magneton!
+[02:08:49] [Timer-2/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This server is running Wondertrade by GhostWolf!
+[02:08:49] [Timer-2/INFO] [net.minecraft.server.dedicated.DedicatedServer]: For a tutorial see: https://www.youtube.com/ghostwolfgames
+[02:08:49] [Timer-2/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Current Wondertrade pool contains: 100 Pixelmon
+[02:08:49] [Timer-2/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Try your luck at getting it with /wondertrade
+[02:09:48] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /save-all 
+[02:09:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salty_Cheese: Saved the world]
+[02:11:33] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /rp addmember biscadii
+[02:13:28] [Server thread/INFO] [nucleus]: MOLE_1 ran the command: /home mountain
+[02:14:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Biscadii lost connection: Disconnected
+[02:14:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Biscadii left the game
+[02:15:07] [User Authenticator #10/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Biscadii is 4dcee4ac-9148-4993-9252-f1d766ef82af
+[02:15:07] [Netty Server IO #20/INFO] [FML]: Client protocol version 2
+[02:15:07] [Netty Server IO #20/INFO] [FML]: Client attempting to join with 8 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2768,biomesoplenty@7.0.1.2425,mcp@9.42,journeymap@1.12.2-5.5.5b7,pixelextras@2.4.6,pixelmon@7.0.6
+[02:15:07] [Netty Server IO #20/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, aurionsvotelistener, carrotshop, catclearlag, clolorhelper, pixelmoneconomybridge, evenmorepixelmoncommands, holograms, luckperms, meltanfixer, nucleus, nuvotifier, pixelhunt, pixelmonbroadcasts, redprotect, simpledexrewards, totaleconomy, trainercommands, wondertrade, worldedit] at CLIENT
+[02:15:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:15:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Biscadii[/99.35.193.248:62489] logged in with entity id 33395 in world(0) at (-1801.0342139223583, 55.0, -1687.5599763985854)
+[02:15:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Biscadii joined the game
+[02:15:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Moderator] ~Destiny: wuh buh
+[02:15:38] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Salty_Cheese hatched a Deino egg in world "world", at X:-1800 Y:55 Z:-1691
+[02:15:44] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Salty_Cheese hatched a Gible egg in world "world", at X:-1800 Y:57 Z:-1692
+[02:17:05] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /gs 6
+[02:17:09] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /gs 5
+[02:17:20] [pool-3-thread-95/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[02:17:50] [pool-3-thread-92/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[02:18:20] [pool-3-thread-93/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 0 items have been cleared.
+[02:18:38] [Server thread/INFO] [nucleus]: Salty_Cheese ran the command: /save-all 
+[02:18:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Salty_Cheese: Saved the world]
+[02:19:18] [User Authenticator #11/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player MetYourDestiny is 194a5dc7-0870-43a1-aedd-d15eb1426f83
+[02:19:18] [User Authenticator #12/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Biscadii is 4dcee4ac-9148-4993-9252-f1d766ef82af
+[02:19:40] [Server Watchdog/FATAL] [net.minecraft.server.dedicated.ServerHangWatchdog]: A single server tick took 60.00 seconds (should be max 0.05)
+[02:19:40] [Server Watchdog/FATAL] [net.minecraft.server.dedicated.ServerHangWatchdog]: Considering it to be crashed, server will forcibly shutdown.
+[02:19:41] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerHangWatchdog]: This crash report has been saved to: C:\minecraft server\Pixelmon Server\.\crash-reports\crash-2019-07-18_02.19.41-server.txt
+[02:19:41] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:19:41] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
